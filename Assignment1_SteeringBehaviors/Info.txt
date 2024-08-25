@@ -1,0 +1,1 @@
+Mělo by stačit pouze vyměnit skripty + zvětšit výšku collideru u Obstacle 3 na 4 v 2. scéně, protože tam není collider objektu ve stejné úrovni jako agenti. Případně načíst rovnou mou scénu.
